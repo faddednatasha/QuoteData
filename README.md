@@ -11,8 +11,7 @@ Scrape quotes from **quotes.toscrape.com**, analyze patterns across **authors** 
 - 🧹 **Clean dataset**: Saved to CSV for reproducibility
 - 📊 **EDA & Visuals**: Explore top authors, tag trends, text lengths
 - 🧮 **SQL Insights**: Quick, reusable queries
-- 🖼️ **Presentation**: Slide deck summarizing findings
-
+  
 ---
 
 ## 🗂️ Project Structure
@@ -21,8 +20,7 @@ Scrape quotes from **quotes.toscrape.com**, analyze patterns across **authors** 
 ├── Quotes_web_scrapping.ipynb              # Scrape quotes, authors, tags
 ├── quotes.csv                              # Exported dataset
 ├── Quotedata_sql_insights.sql              # Handy SQL queries
-├── Quotes_eda_visualization.ipynb          # Visual analytics
-└── Quotes Presentation.pptx                # Summary slides
+└── Quotes_eda_visualization.ipynb          # Visual analytics
 ```
 ---
 
