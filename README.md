@@ -23,7 +23,7 @@ Scrape quotes from **quotes.toscrape.com**, analyze patterns across **authors** 
 ├── Quotedata_sql_insights.sql              # Handy SQL queries
 ├── Quotes_eda_visualization.ipynb          # Visual analytics
 └── Quotes Presentation.pptx                # Summary slides
-
+```
 ---
 
 ## 🧰 Tech Stack
